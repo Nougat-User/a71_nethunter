@@ -1,4 +1,4 @@
-# a71_nethunter (Tested on OneUI 3.1 A12)
+# a71_nethunter (Tested on OneUI 4 A12)
 Ready-compiled kernel with Kali Nethunter additions for Samsung Galaxy A71
 --------------
 
